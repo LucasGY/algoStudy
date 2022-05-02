@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# lucas
+.idea
+leetcode/python/editor/dn/doc
