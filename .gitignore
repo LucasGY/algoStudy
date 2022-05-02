@@ -130,4 +130,5 @@ dmypy.json
 
 # lucas
 .idea
-leetcode/python/editor/dn/doc
+leetcode/python/editor/dn/doc/
+
